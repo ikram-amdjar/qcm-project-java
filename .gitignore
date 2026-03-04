@@ -1,0 +1,13 @@
+# Données MySQL (TRÈS IMPORTANT)
+mysql_data/
+
+# Fichiers Java / Eclipse
+bin/
+target/
+.settings/
+.classpath
+.project
+
+# Fichiers système
+.DS_Store
+Thumbs.db
